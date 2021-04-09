@@ -28,7 +28,7 @@ from test.test_utils import (
     is_time_for_canary_safety_scan, 
     is_mainline_context,
     is_nightly_context,
-    get_repository_local_path,
+    get_repository_local_path
 )
 
 
